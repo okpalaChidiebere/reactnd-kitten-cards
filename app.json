@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactnd-kitten-cards",
+    "slug": "reactnd-kitten-cards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactnd-kitten-cards"
+}
